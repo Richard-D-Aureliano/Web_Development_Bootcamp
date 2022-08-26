@@ -1,0 +1,18 @@
+/*===========TAG STYLES ===========*/
+h1 {
+    color: red;
+}
+
+/*===========ID STYLES ============*/
+#heading{
+    color: blue;
+}
+
+/*==========CLASS STYLES ==========*/
+.bacon{
+    background-color: green;
+}
+
+.brocoli{
+   background-color: red; 
+}

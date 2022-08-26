@@ -1,0 +1,25 @@
+/*===========TAG STYLES ===========*/
+body {
+    background: color #eaf6f6;
+  }
+hr {
+    border-top-style: dotted;
+    border-top-width: 5px;
+    border-top-color:gray ;
+    width: 5%;
+  }
+h1, h3{
+    color: #66BFBF;
+}
+img:hover{
+  border-radius: 50%;
+  box-shadow: 50px;
+}
+
+/*===========ID STYLES ============*/
+
+/*==========CLASS STYLES ==========*/
+
+.voltinha{
+  border-radius: 25%;
+}
